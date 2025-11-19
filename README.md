@@ -2,6 +2,12 @@
 
 Современный интерактивный веб-сайт с документацией для Manus Gateway UI/API/SDK.
 
+🌐 **[Посмотреть сайт →](https://dzhechko.github.io/manus-gw-api-guide/)**
+
+![Manus Gateway](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
+![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue?style=for-the-badge&logo=github)
+![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
+
 ## 🎯 О проекте
 
 Это полнофункциональный веб-сайт с интерактивным транскриптом, предоставляющий комплексное руководство по интеграции с Manus AI через email. Сайт включает документацию по архитектуре, REST API и SDK для Python и JavaScript.
