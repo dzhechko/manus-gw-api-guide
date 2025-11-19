@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Runtime data
+*.log
+
+# Backup files
+*.backup
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
